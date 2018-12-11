@@ -5,7 +5,7 @@ package com.diffblue.tictactoe;
 import java.util.Scanner;
 import java.util.Random;
 
-public class tic3 {
+public class tictactoe {
 
   public static void main(String[] args) {
 
