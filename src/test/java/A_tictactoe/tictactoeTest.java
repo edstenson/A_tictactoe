@@ -6,9 +6,9 @@ package A_tictactoe;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class AppTest {
+public class tictactoeTest {
     @Test public void testAppHasAGreeting() {
-        App classUnderTest = new App();
+        tictactoe classUnderTest = new tictactoe();
         assertNotNull("app should have a greeting", classUnderTest.getGreeting());
     }
 }
